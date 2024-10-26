@@ -1,0 +1,2 @@
+# LezcanoAdrian
+Primer parcial BAUS
